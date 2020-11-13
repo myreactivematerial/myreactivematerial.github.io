@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1605204115377,
+  "timestamp": 1605278264116,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -62,7 +62,7 @@
     "/assets/pictures/Potato_Wedges.jpeg": "3a0cb89dbf3286301171583fe2c34c0fbde45442",
     "/assets/pictures/biden-nytimes.jpeg": "82801ad5a0122afbcf82e833b36cbfbffaae9297",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "99ae2ff3dd3a13fc389bd8aed38c12da13998515",
+    "/index.html": "23f223616e59efaf6ec8649081502443da9e451c",
     "/main.e252e1c37db75262dcfb.js": "30156341833172205b6bcf93d2041b7d0e51f3e3",
     "/manifest.webmanifest": "f32526e3d84462b4c5a7ad8005bf30ab824c4dd6",
     "/polyfills.2368510ebffef489f1f8.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
