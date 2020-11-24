@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1606218108069,
+  "timestamp": 1606242664905,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.f4062981d62c94a9cc54.js",
+        "/main.02a7518216d9e0184ea1.js",
         "/manifest.webmanifest",
         "/polyfills.2368510ebffef489f1f8.js",
         "/runtime.96a59237b9b15a5ae905.js",
-        "/styles.0f039df3ed0faec0aa5c.css"
+        "/styles.68ae0d0475b25369d238.css"
       ],
       "patterns": []
     },
@@ -62,12 +62,12 @@
     "/assets/pictures/Potato_Wedges.jpeg": "3a0cb89dbf3286301171583fe2c34c0fbde45442",
     "/assets/pictures/biden-nytimes.jpeg": "82801ad5a0122afbcf82e833b36cbfbffaae9297",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "1b1387ea5f238970220613b300e637df56385eae",
-    "/main.f4062981d62c94a9cc54.js": "e5d93ea40cd82c7e8dadcae00bb2b26852397f6e",
+    "/index.html": "0cd5eb7b0e64292166ea36592eecb2f3292413d4",
+    "/main.02a7518216d9e0184ea1.js": "b4e509a10b826755d816e638a1ce02e6fef176e9",
     "/manifest.webmanifest": "f32526e3d84462b4c5a7ad8005bf30ab824c4dd6",
     "/polyfills.2368510ebffef489f1f8.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
     "/runtime.96a59237b9b15a5ae905.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/styles.0f039df3ed0faec0aa5c.css": "da20a6764894259d5f212bc3933dbb25e226ddfc"
+    "/styles.68ae0d0475b25369d238.css": "b9237118656ca31d20e13a5abb8903f44799ff72"
   },
   "navigationUrls": [
     {
